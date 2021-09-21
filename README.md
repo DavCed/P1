@@ -26,18 +26,21 @@ To-do list:
 > Installation:
 * Tomcat Server
 * Maven
+* IDE 
 
 > Add Dependencies:
 - Hibernate
 - Servlets
+- MySQL Connector
+- Gson
 
 > Finance Manager Credentials:
-* Username: jmitchell
-* Password: password
+- Username: jmitchell
+- Password: password
 
 > Employee Credentials:
-* Username: amitchell
-* Password: password
+- Username: amitchell
+- Password: password
 
 ## Usage
 
