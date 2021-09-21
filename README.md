@@ -26,7 +26,7 @@ To-do list:
 > Installation:
 * Tomcat Server
 * Maven
-* IDE 
+* IDE (IntellJIdea or Eclipse)
 
 > Add Dependencies:
 - Hibernate
